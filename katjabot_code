@@ -30,3 +30,7 @@ module.exports = function(robot) {
 
 
 }
+
+
+// everything except the dream crusher (last block) works perfectly and I can't figure out why by troubleshooting the code
+// let me know if you find something wrong with it!
